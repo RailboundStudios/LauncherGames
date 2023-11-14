@@ -1,16 +1,20 @@
 {
 
-    "GamePage": 
+    "PageInfo": 
     {
         "DisplayName": "Railbound Tycoon",
         "Credit": "Railbound Studios",
         "BackgroundImage": "https://drive.google.com/uc?export=download&id=1Uapn9b4LuunNADpXmZzvUmwJkDhkpwWZ",
-        "Thumbnail": "https://drive.google.com/uc?export=download&id=1BgRTiDDo5YXGpQrB2KoLDjUCoeBwJmTU"
+        "ThumbnailImage": "https://drive.google.com/uc?export=download&id=1BgRTiDDo5YXGpQrB2KoLDjUCoeBwJmTU"
     },
 
-    "FileName":"Windows.zip",
-    "FileSize": 1769096248,
-    "FileHash":"877a3cfa13b78eeed203542c3318aeba878bdae3b1bfabadf48cbeaacd5cea9c",
-    "Executable": "TerrainProjekt.exe",
-    "DownloadURL":"https://drive.google.com/u/0/uc?id=1MzW_ooJzqmyNfNxgCD5tAZlmEU3_DACq&export=download&confirm=t&uuid=9e87205e-aa7c-42d6-9d05-82b4f66e0bec&at=AB6BwCAyQn3kpcp2DXoBAsI5nANV:1699628570284"
+    "DownloadInfo":
+    {
+        "DirectoryName": "Railbound",
+        "Executable": "TerrainProjekt.exe",
+        "ArchiveURL": "https://drive.google.com/u/0/uc?id=1MzW_ooJzqmyNfNxgCD5tAZlmEU3_DACq&export=download&confirm=t&uuid=9e87205e-aa7c-42d6-9d05-82b4f66e0bec&at=AB6BwCAyQn3kpcp2DXoBAsI5nANV:1699628570284",
+        "ArchiveHash": "",
+        "ArchiveSize": 1769096248
+        
+    }
 }
