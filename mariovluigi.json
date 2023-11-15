@@ -1,0 +1,20 @@
+{
+    "PageInfo": 
+    {
+        "DisplayName": "New Super Mario Bros. - Mario Vs Luigi",
+        "Developer": "ipodtouch0218",
+        "Publisher": "ipodtouch0218",
+        "BackgroundImage": "https://www.svg.com/img/gallery/mario-vs-luigi-who-would-win-in-a-fight/l-intro-1607528117.jpg",
+        "ThumbnailImage": "https://img.itch.zone/aW1nLzg0NDE3ODcucG5n/315x250%23c/0Xl%2FEJ.png"
+    },
+
+    "DownloadInfo":
+    {
+        "DirectoryName": "MarioVsLuigi",
+        "Executable": "MarioVsLuigi-Win64\\NSMB-MarioVsLuigi.exe",
+        "ArchiveURL": "https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/releases/download/v1.7.1.0-beta/MarioVsLuigi-Win64-v1.7.1.0-beta.zip",
+        "ArchiveHash": "",
+        "ArchiveSize": 45359104
+        
+    }
+}
